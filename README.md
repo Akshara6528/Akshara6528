@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Akshara6528
-- 👀 I’m interested in software testing
+- 👋 Hi, I’m @Akshara652
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on testing related projects
 - 📫 How to reach me through mail#akshara6528@gmail.com
